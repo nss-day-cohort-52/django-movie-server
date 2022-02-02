@@ -1,0 +1,30 @@
+[
+  {
+    "model": "movie_api.actor",
+    "pk": 1,
+    "fields": {
+      "name": "Michael Palin"
+    }
+  },
+  {
+    "model": "movie_api.actor",
+    "pk": 2,
+    "fields": {
+      "name": "Eric Idle"
+    }
+  },
+  {
+    "model": "movie_api.actor",
+    "pk": 3,
+    "fields": {
+      "name": "John Cleese"
+    }
+  },
+  {
+    "model": "movie_api.actor",
+    "pk": 4,
+    "fields": {
+      "name": "Graham Chapman"
+    }
+  }
+]

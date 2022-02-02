@@ -1,0 +1,44 @@
+[
+  {
+    "model": "movie_api.movie",
+    "pk": 1,
+    "fields": {
+      "title": "Monty Python and the Holy Grail",
+      "year": "1975",
+      "genre": 1,
+      "actors": [
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "model": "movie_api.movie",
+    "pk": 2,
+    "fields": {
+      "title": "Monty Python's Life of Brian",
+      "year": "1979",
+      "genre": 2,
+      "actors": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "model": "movie_api.movie",
+    "pk": 3,
+    "fields": {
+      "title": "Monty Python's Meaning of Life",
+      "year": "1983",
+      "genre": 3,
+      "actors": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  }
+]
